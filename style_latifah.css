@@ -1,0 +1,14 @@
+body {
+	background-color: green;
+	font-family: Arial, Helvatica, sans-serif;
+}
+
+h1 { color: white; }
+
+p { color: white; }
+
+.input-text {
+	width: 90%;
+	padding:  10px;
+	border-radius: 10px;
+}
